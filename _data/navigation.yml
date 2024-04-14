@@ -12,21 +12,21 @@ main:
   - title: "SSR Lab"
     url: /people/
 
-  - title: "Opportunities"
-    url: /opportunities/
+  # - title: "Opportunities"
+  #   url: /opportunities/
 
 
-  - title: "Funding & Awards"
-    url: /funding-and-awards/
+  # - title: "Funding & Awards"
+  #   url: /funding-and-awards/
 
-  - title: "Professional Activities"
-    url: /professional-activities/
+  # - title: "Professional Activities"
+  #   url: /professional-activities/
 
 #  - title: "CV"
 #    url: /cv/
 
-  - title: "Teaching"
-    url: /teaching/
+  # - title: "Teaching"
+  #   url: /teaching/
 
  # - title: "Blog"
  #   url: /archive-year/
